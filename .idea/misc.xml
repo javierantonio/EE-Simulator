@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_10.xml" value="0.75" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_11.xml" value="0.359375" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_13.xml" value="0.2682737169517885" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_14.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_15.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_17.xml" value="0.5" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_25.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_4.xml" value="0.5" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_5.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_6.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_7int.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_8.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/User/Desktop/EE Simulator/app/src/main/res/layout/pag_9.xml" value="0.17980072463768115" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
